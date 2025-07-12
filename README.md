@@ -9,6 +9,5 @@ Estructura del Repositorio:
 - Reports     : Gráficos demostrando e interpretando la información entregada por el dataset
 - Readme.md   : El documento que estás leyendo
 
-Instrucciones para Ejecutar: Pasos para ejecutar los notebooks y reproducir los resultados.
-Autores: Nombres y roles de los participantes en el proyecto.
-Licencia: Información sobre la licencia del proyecto.
+Autores: BifoldTide (El creador de este repositorio)
+Licencia: Dataset de Retail de parte de Kaggle, el proceso y proceso de análisis de parte de BifoldTide.
